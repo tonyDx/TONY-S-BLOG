@@ -38,7 +38,7 @@ app.get('/', (req, res) => {
     /**
      * 发送静态文件过去
      */
-    // res.sendfile(__dirname+'/index.html')
+    // res.sendfile(__dirname+'/default.html')
 
 });
 
