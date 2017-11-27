@@ -2,8 +2,8 @@ title:             Dong Xin 's Personal Website
 email:             tonydong321@qq.com
 description:       眼前的黑不是黑 你说的白是什么白
 author:            tonydong
-#baseurl:           ""
-#url:               ""
+#baseurl:           "/"
+#url:               "localhost:4000"
 
 # Social Profiles
 twitter_username:  DongTonydong321
