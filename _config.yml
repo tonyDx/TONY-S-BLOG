@@ -12,8 +12,13 @@ facebook_username: 100011372958185
 
 # Build settings
 markdown:          kramdown
+permalink: pretty
+highlighter: rouge
+
+
 paginate:          8
 paginate_path:     "/posts/page:num/"
+
 plugins:
   - jekyll-feed
   - jekyll-paginate
