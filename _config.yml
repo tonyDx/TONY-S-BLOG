@@ -22,3 +22,8 @@ paginate_path:     "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
+
+
+lean_cloud :
+  app_id   :  2tHkLRdCcjpBhkGgU60bshd2-gzGzoHsz
+  app_key  :  hUBGYOJCIejnPGh4lNe1gkbB

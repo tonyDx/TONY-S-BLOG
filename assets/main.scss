@@ -12,6 +12,13 @@ img{
   width: 100%;
 }
 
+ blockquote {
+  padding-left: 1.2em;
+  border-left: 4px solid #e2e3e4;
+  color: #464a4e;
+  font-style:initial;
+}
+
 .highlight {
   border: 1px solid #ccc;
   -webkit-border-radius: 5px;
@@ -32,7 +39,7 @@ img{
 code {
   border: none;
   padding: 0 .25em;
-  color: #c7254e;
+  color: #c7254e!important;
 }
 .lineno{
   border-right:1px dotted #000000;
